@@ -122,17 +122,6 @@
 
 ---
 
-<div align="center">
-
-## 🎥 Self Introduction Video
-
-> A short introduction about me, my skills, and my interests.
-
-- ▶️ GitHub Version: [Watch / Download](./Self%20Introduction.mp4)  
-- ▶️ Google Drive Backup: [Watch Here](https://drive.google.com/file/d/1W_v1fxzYeSep4rqaYC4cQnEC-bDlNqEy/view)
-
-</div>
-
 ## 🚀 PROJECTS
 
 🫀 **Heart Disease Predictor**  
