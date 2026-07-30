@@ -25,7 +25,7 @@
 
 <div align="center">
 
-🎓 **2nd Year B.Tech Student** in Computer Science Engineering  
+🎓 **3rd Year B.Tech Student** in Computer Science Engineering  
 (Specialization: Artificial Intelligence & Machine Learning)  
 
 🏫 Studying at **Vellore Institute of Technology, Bhopal**  
